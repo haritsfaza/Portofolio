@@ -61,7 +61,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Belajar Data Sains](https://drive.google.com/file/d/1ZcDTTwXuIbWwxxXeHk_3z-P7-e-JtlcU/view?usp=sharing) - Dicoding (December 2024 - January 2025)
 
 # Contact
-• LinkedIn : linkedin.com/in/ahmadharitsfaza
+• LinkedIn : [Ahmad Harits Faza](linkedin.com/in/ahmadharitsfaza)
 
 • Email : haritsfaza09@gmail.com
 
