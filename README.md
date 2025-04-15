@@ -16,8 +16,8 @@ This is a repository to showcase skills, share projects and track my progress in
 • [Portfolio Projects](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
 
   o	Python
-  
     •
+    
     
   o	SQL
   
@@ -34,6 +34,22 @@ This is a repository to showcase skills, share projects and track my progress in
 • [Contact](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
 
 # Portofolio Projects
+
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+# Analyze Chocolate Sales
+**Code:** [Chocolate Sales.ipynb](https://github.com/haritsfaza/Chocolate-Sales/blob/main/Chocolate%20Sales.ipynb)
+
+**Goal:** To analyze and increase chocolate sales.
+
+**Description:** The project focused on analyzing a dataset of Chocolate sales in January 2022 - August 2022. The dataset include prodcut, country, sales person, amount, shipped boxes, and date. The involved loading the data, cleaning and preprocessing it, performing exploring data analysis (EDA), Analyzing the correlation of sales, and visualizing.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:**  Python, Pandas, Numpy, Seaborn, Matplotlib.
+
+**Results:** Using Python functions the analysis knowing the relevance of sales per month it is known that chocolate sales increase depending on the season. in winter and holidays chocolate sales increase greatly.
+
 
 # Education
 Institute Technology of Sumatera - Bachelor of Science,
