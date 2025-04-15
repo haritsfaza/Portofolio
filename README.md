@@ -11,9 +11,9 @@ My CV in
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of Contents
-•	About
+•	[About](https://github.com/haritsfaza/Data-Analyst-Portofolio/blob/main/README.md#about)
 
-• Portfolio Projects
+• [Portfolio Projects](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
 
   o	Python
   
@@ -27,11 +27,13 @@ This is a repository to showcase skills, share projects and track my progress in
   
   o	Power BI
   
-• Education
+• [Education](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
 
-• Certificate
+• [Certificate](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
 
-• Contact
+• [Contact](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
+
+# Portofolio Projects
 
 # Education
 Institute Technology of Sumatera - Bachelor of Science,
