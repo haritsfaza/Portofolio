@@ -11,27 +11,27 @@ My CV in
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of Contents
-•	[About](https://github.com/haritsfaza/Data-Analyst-Portofolio/blob/main/README.md#about)
+-	[About](https://github.com/haritsfaza/Data-Analyst-Portofolio/blob/main/README.md#about)
 
-• [Portfolio Projects](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
+- [Portfolio Projects](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
 
-  o	Python
-    •
+  - Python
+  
+    - [Analyze Choclotae Sales](https://github.com/haritsfaza/Portofolio/blob/main/README.md#analyze-chocolate-sales)
     
-    
-  o	SQL
+  - SQL
   
-  o	Excel / Google Sheets
+  -	Excel / Google Sheets
   
-  o	Tableu
+  -	Tableu
   
-  o	Power BI
+  -	Power BI
   
-• [Education](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
+- [Education](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
 
-• [Certificate](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
+- [Certificate](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#certificate)
 
-• [Contact](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
+- [Contact](https://github.com/haritsfaza/Data-Analyst-Portofolio/edit/main/README.md#contact)
 
 # Portofolio Projects
 
