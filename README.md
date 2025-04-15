@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Python
   
-    - [Analyze Choclotae Sales](https://github.com/haritsfaza/Portofolio/blob/main/README.md#analyze-chocolate-sales)
+    - [Analyze Chocolate Sales](https://github.com/haritsfaza/Portofolio/blob/main/README.md#analyze-chocolate-sales)
     
   - SQL
   
