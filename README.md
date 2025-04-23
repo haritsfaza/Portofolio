@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Credit Card Fraud Detection](https://github.com/haritsfaza/haritsfaza/edit/main/README.md#credit-card-fraud-detection)
     
   - SQL
-    - [Air BNB Analysis](https://github.com/haritsfaza/haritsfaza/blob/main/README.md#airbnb-nyc-sql-analysis)
+    - [Airbnb NYC Analysis](https://github.com/haritsfaza/haritsfaza/blob/main/README.md#airbnb-nyc-sql-analysis)
   
   -	Excel / Google Sheets
   
@@ -116,7 +116,7 @@ All queries are written and saved as separate `.sql` files under the `queries/` 
 - Identified hosts with the most listings (potentially companies or agencies).
 - Structured queries for reproducibility and future analysis.
 
-### Sample Output
+**Sample Output**
 
 ```sql
 -- Sample query: Total listings per borough
@@ -124,7 +124,6 @@ SELECT neighbourhood_group, COUNT(*) AS total
 FROM airbnb
 GROUP BY neighbourhood_group
 ORDER BY total DESC;
-
 
 
 # Education
