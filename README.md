@@ -76,6 +76,54 @@ The confusion matrix further supports this result:
 
 Only 8 fraud cases were missed (false negatives), while 1,390 normal transactions were incorrectly flagged as fraud (false positives). Overall, the model provided a strong baseline for fraud detection and can be further improved using more advanced models or resampling techniques.
 
+# Airbnb NYC SQL Analysis
+
+**Queries Folder:** [`queries/`](./queries)  
+**Dataset:** [Airbnb NYC 2019 on Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
+**Goal:** To explore and analyze New York City Airbnb listing data using SQL to uncover trends in listing distribution, pricing patterns, host activity, and data anomalies such as outlier prices.
+
+**Description:** This project analyzes Airbnb listing data from New York City using PostgreSQL. The dataset includes over 48,000 listings with details such as location (borough and neighborhood), room type, price, availability, and host info. The analysis covers:
+
+- Distribution of listings across boroughs
+- Pricing trends by location and room type
+- Identification of top hosts
+- Outlier detection to clean extreme price values
+
+All queries are written and saved as separate `.sql` files under the `queries/` directory for modularity and clarity.
+
+**Skills:**
+
+- SQL querying and grouping
+- Aggregation and statistical functions
+- Outlier detection and data cleaning
+- Data structuring for analysis
+- Writing reusable modular SQL scripts
+
+**Technologies:**
+
+- PostgreSQL
+- SQL
+- VSCode
+- Git & GitHub
+
+**Results Summary:**
+
+- **Manhattan** has the most listings, but also some of the highest prices.
+- **Entire home/apt** is the most popular room type in premium areas.
+- Detected and removed listings with prices over \$1000 as outliers.
+- Identified hosts with the most listings (potentially companies or agencies).
+- Structured queries for reproducibility and future analysis.
+
+### Sample Output
+
+```sql
+-- Sample query: Total listings per borough
+SELECT neighbourhood_group, COUNT(*) AS total
+FROM airbnb
+GROUP BY neighbourhood_group
+ORDER BY total DESC;
+
 # Education
 Institute Technology of Sumatera - Bachelor of Science,
 Science Atmospheric and Planetary, 2018 - 2024
