@@ -21,6 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Credit Card Fraud Detection](https://github.com/haritsfaza/haritsfaza/edit/main/README.md#credit-card-fraud-detection)
     
   - SQL
+    - [Air BNB Analysis](https://github.com/haritsfaza/haritsfaza/blob/main/README.md#airbnb-nyc-sql-analysis)
   
   -	Excel / Google Sheets
   
@@ -123,6 +124,8 @@ SELECT neighbourhood_group, COUNT(*) AS total
 FROM airbnb
 GROUP BY neighbourhood_group
 ORDER BY total DESC;
+
+
 
 # Education
 Institute Technology of Sumatera - Bachelor of Science,
