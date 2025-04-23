@@ -116,16 +116,6 @@ All queries are written and saved as separate `.sql` files under the `queries/` 
 - Identified hosts with the most listings (potentially companies or agencies).
 - Structured queries for reproducibility and future analysis.
 
-**Sample Output**
-
-```sql
--- Sample query: Total listings per borough
-SELECT neighbourhood_group, COUNT(*) AS total
-FROM airbnb
-GROUP BY neighbourhood_group
-ORDER BY total DESC;
-
-
 # Education
 Institute Technology of Sumatera - Bachelor of Science,
 Science Atmospheric and Planetary, 2018 - 2024
